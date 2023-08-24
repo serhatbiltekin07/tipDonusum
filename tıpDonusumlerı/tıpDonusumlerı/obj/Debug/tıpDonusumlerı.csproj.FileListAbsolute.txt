@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\bin\Debug\tıpDonusumlerı.exe.config
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\bin\Debug\tıpDonusumlerı.exe
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\bin\Debug\tıpDonusumlerı.pdb
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\obj\Debug\tıpDonusumlerı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\obj\Debug\tıpDonusumlerı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\obj\Debug\tıpDonusumlerı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\obj\Debug\tıpDonusumlerı.exe
+C:\Users\user\Desktop\projeler\tıpDonusumlerı\tıpDonusumlerı\obj\Debug\tıpDonusumlerı.pdb
